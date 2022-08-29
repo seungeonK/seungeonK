@@ -2,6 +2,7 @@
 
 - Major: Computer Science
 - Education: University of Virginia, Virginia
+- Software Engineer at Qualtrics
 
 ### Languages and Tools
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
