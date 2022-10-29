@@ -10,9 +10,9 @@
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=white&color=092E20)
 ![](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=232f3e)
-
+![](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 
 
