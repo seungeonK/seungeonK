@@ -7,10 +7,12 @@
 ### Languages and Tools
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 
